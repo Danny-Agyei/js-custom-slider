@@ -258,5 +258,5 @@ slider({
    loop: true,
    speed: 1500,
    margin: 10,
-   numOfItems: 3,
+   numOfItems: 1,
 });
